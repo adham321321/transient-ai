@@ -1,0 +1,11 @@
+PyQt5==5.15.7
+librosa==0.10.0
+numba==0.57.1
+llvmlite==0.40.1
+numpy==1.24.3
+scipy==1.11.0
+soundfile==0.12.1
+ffmpeg-python==0.2.1
+lxml==4.9.3
+pandas==2.0.3
+musicbrainzngs==0.7.1
